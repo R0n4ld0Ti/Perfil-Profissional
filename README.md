@@ -1,2 +1,2 @@
-# <p align="center"> Portfolio profissional<br> Tecnologia da informação.</p>
+# Portfolio
 Tecnologias usadas.
