@@ -1,2 +1,2 @@
-# Perfil-Profissional
-Este repositório tem por objetivo expor as habilidades profissionais do Analista dono do git-hub.
+# Portfolio - Analista de Suporte & Monitoramento com habilidades em desenvolvimento web.
+Tecnologias usadas.
