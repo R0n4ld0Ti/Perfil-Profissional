@@ -1,0 +1,7 @@
+services:
+  perfil-profissional:
+    build: .
+    container_name: perfil-profissional
+    ports:
+      - "8080:80"
+    restart: unless-stopped
